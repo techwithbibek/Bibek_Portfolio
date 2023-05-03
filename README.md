@@ -8,8 +8,13 @@ My goal is to use my expertise to create innovative solutions and drive organiza
 
 [Project 1: Analysis of Google Play Store Apps](https://github.com/techwithbibek/Google-Play-Store-Data-Visualization)
 - [Link to dataset](https://www.kaggle.com/lava18/google-play-store-apps)
+- Game category has highest reviews and Zoosk Dating App  has the maximum number of reviews in Dating Category.
+- Most of the apps has rating between 4 to 4.5.
+- Most of the apps were updated in 2018.
+
 
 [Project 2: Automotive Sales Analysis](https://github.com/techwithbibek/Automotive-Sales-Analysis)
+- Automotive sales analysis explains the sales report to evaluate how the company is performing i.e, whether sales are increasing or declining. The sales Analysis is based on the scores calculated from the datasets that are provided. The Analysis is more focused on increasing the sales and revenue of the products by analyzing the KPIs and CSFs. The performance is also calculated based on their sales figure and the revenue generated.
 
 
 
