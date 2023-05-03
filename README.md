@@ -9,6 +9,10 @@ My goal is to use my expertise to create innovative solutions and drive organiza
 [Project 1: Analysis of Google Play Store Apps](https://github.com/techwithbibek/Google-Play-Store-Data-Visualization)
 - [Link to dataset](https://www.kaggle.com/lava18/google-play-store-apps)
 
+[Project 2: Automotive Sales Analysis](https://github.com/techwithbibek/Automotive-Sales-Analysis)
+
+
+
 
 
 
