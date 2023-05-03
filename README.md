@@ -8,7 +8,9 @@ My goal is to use my expertise to create innovative solutions and drive organiza
 
 Project 1: Analysis of Google Play Store Apps
 - Includes dataset of over 10,000 apps on google play store
-- [Link to dataset:](https://www.kaggle.com/lava18/google-play-store-apps)
+- [Link to dataset](https://www.kaggle.com/lava18/google-play-store-apps)
+- Findings:
+    - 
 
 
 
