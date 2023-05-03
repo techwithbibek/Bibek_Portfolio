@@ -1,11 +1,14 @@
 #Bibek Shrees - Data Analysis Portfolio
 ##About
-Hi, I'm Bibek! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Department, and CTO in a technological startup. After a year of transitioning from geoscience to Data Analysis, I am currently a Data Analyst at a Fintech company, starting from June 2021.
-Achieved the 7th place at the open Data Analyst 2021 competition held by Career Factory.
+Hi, I'm Bibek – a Junior Technical Analyst with a Bachelor's degree in Computer Science and Post-Graduate Degrees in Big Data Analytics and Cloud Architecture and Administration. I specialize in programming languages like Python, C, and C++, as well as database technologies such as MySQL and Oracle.
 
-My article on Habr on matching two open data datasets with help of Machine Learning ---> ENG | RUS
+With experience in web development and technical analysis, I am skilled in managing competing priorities and deadlines while delivering high-quality results in a collaborative team environment. I am passionate about leveraging cloud computing technologies like Azure and AWS to solve complex technical challenges and stay up to date with emerging industry trends.
 
-My Data Analytics blog on Medium
+My goal is to use my expertise to create innovative solutions and drive organizational success. I value open communication and teamwork, and I am excited to bring my skills, experience, and passion to any team in the technology industry.
 
-My CV in pdf
+Project 1: Analysis of Google Play Store Apps
+- Includes dataset of over 10,000 apps on google play store
+- Link to dataset: https://www.kaggle.com/lava18/google-play-store-apps
+
+
 
