@@ -9,6 +9,7 @@ My goal is to use my expertise to create innovative solutions and drive organiza
 [Project 1: Analysis of Google Play Store Apps](https://github.com/techwithbibek/Google-Play-Store-Data-Visualization)
 - [Link to dataset](https://www.kaggle.com/lava18/google-play-store-apps)
 - Game category has highest reviews and Zoosk Dating App  has the maximum number of reviews in Dating Category.
+  ![](https://github.com/techwithbibek/Bibek_Portfolio/blob/main/images/datingapps.jpg)
 - Most of the apps has rating between 4 to 4.5.
 - Most of the apps were updated in 2018.
 
