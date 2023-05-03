@@ -6,7 +6,7 @@ With experience in web development and technical analysis, I am skilled in manag
 
 My goal is to use my expertise to create innovative solutions and drive organizational success. I value open communication and teamwork, and I am excited to bring my skills, experience, and passion to any team in the technology industry.
 
-Project 1: Analysis of Google Play Store Apps
+[Project 1: Analysis of Google Play Store Apps](https://github.com/techwithbibek/Google-Play-Store-Data-Visualization)
 - Includes dataset of over 10,000 apps on google play store
 - [Link to dataset](https://www.kaggle.com/lava18/google-play-store-apps)
 - Findings:
